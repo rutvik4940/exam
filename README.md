@@ -1,9 +1,3 @@
-Display all products in HomePage by using ListTile
-- Add a new product by pressing on FAB and using AlertDialog box
-- Perform CRUD operations from HomePage using Firestore DB
-- Store a product which you added to a Cart from HomePage in local storage using SQLite database
-- Display stored products in CartPage from SQLite database
-- Remove stored products from CartPage by removing from SQLite database
 
 # exam
 
