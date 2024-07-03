@@ -1,4 +1,4 @@
-![Screenshot_20240703_132948](https://github.com/rutvik4940/exam/assets/153794371/b9ffc7f0-cd2b-408c-be20-5dfcf1e48251)
+
 # exam
 
 A new Flutter project.
